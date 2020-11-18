@@ -4,4 +4,4 @@
 - 🎓 Currently working on University & commissions
 - 📝 You can contact me thru [my website](https://www.pnsdev.com) or on Discord (.Offline#9999)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PnsDev&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PnsDev&layout=compact)
