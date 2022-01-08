@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jose</h1>  
-<h3 align="center">I'm a 20 year old jack of all traits</h3>  
+<h3 align="center">I'm a 20 year guy who click and clacks on his keyboard</h3>  
  
   
 - 🌱 I’m currently learning **Kotlin, React, and some other cool stuff.**  
